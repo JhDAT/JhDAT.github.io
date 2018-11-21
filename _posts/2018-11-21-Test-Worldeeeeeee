@@ -1,0 +1,13 @@
+
+
+Hound reviews your code then comments directly in Pull Requests, helping your team maintain consistent coding style and high code quality.
+
+Hound integrates with your existing workflow by reviewing changes and commenting the moment a Pull Request is created or updated.
+
+Automated reviews allow developers to focus on the kind of code review that humans are best at giving.
+
+Hound's default settings build upon accepted industry standards and are the result of years of utilization in software projects at thoughtbot.
+
+Have your own style guide or need to modify the default? Hound provides the ability to customize reviews to best suit your team's needs.
+
+A clean codebase is a reflection of a cohesive team. It gives the impression of a team working well together towards a common goal, rather than individual developers working independently.
